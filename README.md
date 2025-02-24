@@ -14,16 +14,22 @@ b) Software engineering provides maintainable, scalable, and efficient software 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
 a) The establishment of software engineering as a discipline in the 1960s
+
 b) The advent of structured programming in the 1970s
+
 c) The rise of agile methodologies in the 2000s.
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
 a) Planning - Gathering requirements for the customer and documenting them
+
 b) Design - Creating a blueprint for the software
+
 c) Testing - Testing the software to ensure it functions properly and meets requirements
+
 d) Deployment - Moving the software from the testing environment to an operating environment
+
 e) Maintenance - Monitoring the software for issues that may arise once in production
 
 
@@ -37,7 +43,9 @@ b) Waterfall would be appropriate for solo projects where you would need to crea
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
 a) A software developer is responsible for writing code and implementing software solutions.
+
 b) A quallity assurance engineer is responsible for ensuring software quality by designing and executing test plans.
+
 c) A project manager oversees the planning, execution, and delivery of software projects.
 
 
@@ -65,8 +73,11 @@ b) Strategies for Overcoming Challenges:
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
 a) Unit Testing - Testing individual components or modules of software
+
 b) Integration Testing - Testing interactions between different components or subsystems
+
 c) System Testing - Testing the entire software system as a whole
+
 d) Acceptance Testing - Testing the software against user requirements to ensure it meets user needs
 
 
@@ -76,6 +87,7 @@ d) Acceptance Testing - Testing the software against user requirements to ensure
 1. Define prompt engineering and discuss its importance in interacting with AI models.
 
 a) Prompt engineering is all about crafting questions or statements to get the best possible responses from AI models.
+
 b) Prompt engineering helps avoid vague questions and confusing answers by making your questions clear and specific, so the AI understands exactly what you need.
 
 
